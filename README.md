@@ -1,4 +1,6 @@
-E-commerce application similar to Shopify using:
+E-commerce application similar to Shopify.
+
+Technologies used:
 
 - React
 - Redux
@@ -7,4 +9,5 @@ E-commerce application similar to Shopify using:
 - Context API
 - GraphQL
 - Firebase 
-- Stripe 
+- Stripe
+- PWAs
